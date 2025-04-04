@@ -1,0 +1,8 @@
+com\example\entity\User.class
+com\example\web\AddUserServlet.class
+com\example\web\DeleteUserServlet.class
+com\example\util\DBUtil.class
+com\example\dao\UserDAO.class
+com\example\web\UpdateUserServlet.class
+com\example\web\UserListServlet.class
+com\example\web\ListUserServlet.class
